@@ -1,0 +1,5 @@
+mongo:
+  uri: "mongodb://root:rootpassword@localhost:27017/?authSource=admin"
+  databaseName: "my-database"
+  collectionProductsName: "products"
+  collectionBrandProductCount: "collectionBrandProductCount"
