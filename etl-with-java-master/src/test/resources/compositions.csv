@@ -1,0 +1,6 @@
+ProductCode;Name;IngredientCode;IngredientName;Quantity;UnitOfMeasure
+1;MaxiCookie;34;Sugar;100;g/kg
+1;MaxiCookie;3;Chocolate;33;chunks/unit
+1;MaxiCookie;1;Butter;200;g/kg
+2;SodaCool;34;Sucre;500;g/l
+2;SodaCool;34;Water;1;%/l
